@@ -16,6 +16,16 @@ You can play the game without building it [in your browser](https://dragonlab.de
 
 <img src="https://dragonlab.de/projects/PlanetsAndPickups/gameplay_small.gif"/>
 
+## Text reviews of the project
+### Baimurat COM18
+Very well made. The gravitation feature of the planets seems interesting and eye catching. I hope you'll update it!
+### Daniiar COM-18
+Нужно улучшить силу гравитационных полей, а то немного резкие скачки. Если в общем, то интересная игра. Продолжай.
+### Aiana COM-19
+Хорошая архитектура приложения, нравится возможность играть в браузере, без скачивания всех файлов. Дай возможность менять музыку в игре.
+### Karina COM-19
+Absolutely stunning game! It is exciting to play, because I haven't played anything like that before. Please do more games^^
+
 ## Building the project
 
 1. Get the project by cloning it with your favourite git client or download it as a ZIP archive.
