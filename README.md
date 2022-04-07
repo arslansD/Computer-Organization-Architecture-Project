@@ -37,7 +37,7 @@ The assets used are:
 
 ## License
 
-This project is licensed under [The Unlicense](https://github.com/TobiasWehrum/planets-and-pickups/blob/master/LICENSE). Treat it as public domain for all intents and purposes, and then do with it whatever you want.
+Treat it as public domain for all intents and purposes, and then do with it whatever you want.
 
 Libraries in the AddOn folder and other assets besides my own code in Asset/Scripts may be subject to other licenses.
 
